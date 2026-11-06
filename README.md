@@ -1,6 +1,7 @@
 # 📂 Proyectos Asociados a la Carrera - Ingeniería en Informática
 
-Repositorio centralizado que recopila proyectos, prácticas de laboratorio, modelados de sistemas y desarrollos realizados durante mi formación como **Analista Universitario en Sistemas de Computación** y mi carrera de grado en **Ingeniería en Informática**.
+Repositorio centralizado que recopila proyectos, prácticas de laboratorio, modelados de sistemas y desarrollos realizados como **Analista Universitario en Sistemas de Computación** y como estudiante de la carrera de grado en **Ingeniería en Informática**.
+
 
 ---
 
