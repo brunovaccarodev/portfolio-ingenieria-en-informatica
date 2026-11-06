@@ -1,0 +1,18 @@
+
+.etiqueta {
+    display: inline-block;
+    width: 80px;
+}
+
+div {
+    margin-bottom: 5px; 
+}
+
+h1 {
+    text-align: center;
+    margin-left: -50px;
+}
+
+button:last-child {
+    margin-top: 10px;
+}

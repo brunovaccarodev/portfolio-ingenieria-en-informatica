@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Estadisticas Online</title>
+    <link rel="stylesheet" href="Estadisticas.css">
+</head>
+<body>
+    <header>
+        <h1>Estadisticas Online</h1>
+    </header>
+    
+    <!-- CORRECCIÓN CLAVE: Se agregó id="valorDeEntrada" -->
+    <p>Valor: <input type="number" id="valorDeEntrada"> <button id="botonRegistrar">Registrar</button></p>
+    <hr>
+    
+    <section>
+        <div>
+            <label class="etiqueta">Cantidad:</label> 
+            <input type="number" id="cantidad" readonly>
+        </div>
+        <div>
+            <label class="etiqueta">Promedio:</label> 
+            <input type="number" id="promedio" readonly>
+        </div>
+        <div>
+            <label class="etiqueta">Mayor:</label> 
+            <input type="number" id="mayor" readonly>
+        </div>
+        <div>
+            <label class="etiqueta">Menor:</label> 
+            <!-- CORRECCIÓN: Se agregó el atributo readonly faltante -->
+            <input type="number" id="menor" readonly>
+        </div>
+        <hr>
+        <button id="botonReset">Reset</button>
+    </section>
+
+    <!-- El script está perfectamente ubicado al final -->
+    <script src="Estadisticas.js"></script>
+</body>
+</html>
