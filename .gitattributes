@@ -1,1 +1,1 @@
-tests/*.py linguist-vendored=false
+02-programacion-y-algoritmos/cliente-servidor-sockets/tests/**/*.py linguist-detectable=true
